@@ -3,30 +3,30 @@
     "id": 1,
     "name": "Facebook",
     "url": "#",
-    "imageUrl": "/src/assets/social/facebook.png"
+    "imageUrl": " /social/facebook.png"
   },
   {
     "id": 2,
     "name": "Twitter",
     "url": "#",
-    "imageUrl": "/src/assets/social/twitter.png"
+    "imageUrl": "/social/twitter.png"
   },
   {
     "id": 3,
     "name": "LinkedIn",
     "url": "https://www.linkedin.com/company/madeitservices/",
-    "imageUrl": "/src/assets/social/linkedin.png"
+    "imageUrl": "/social/linkedin.png"
   },
   {
     "id": 4,
     "name": "Gmail",
     "url": "mailto:madeitservices@gmail.com",
-    "imageUrl": "/src/assets/social/mail.png"
+    "imageUrl": "/social/mail.png"
   },
   {
     "id": 5,
     "name": "Phone",
     "url": "tel:+92 333 5160474",
-    "imageUrl": "/src/assets/social/phone.png"
+    "imageUrl": "social/phone.png"
   }
 ]

@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <FooterContainer>
       <Logo>
-        <img src="/src/assets/logo.png" alt="" />
+        <img src="/logo.png" alt="" />
       </Logo>
       <Links>
         {navLinks

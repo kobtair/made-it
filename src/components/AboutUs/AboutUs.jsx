@@ -20,7 +20,7 @@ export default function AboutUs() {
           visions into reality.
         </p>
       </AboutTextContainer>
-      <AboutImageContainer><img src="/src/assets/about.png" alt="about" /></AboutImageContainer>
+      <AboutImageContainer><img src="/about.png" alt="about" /></AboutImageContainer>
     </AboutUsContainer>
   );
 }

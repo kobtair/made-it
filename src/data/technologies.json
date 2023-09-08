@@ -6,52 +6,52 @@
             {
                 "id": 1,
                 "name": "HTML",
-                "imageUrl": "/src/assets/technology/web/html.png"
+                "imageUrl": "/technologies/web/html.png"
             },
             {
                 "id": 2,
                 "name": "CSS",
-                "imageUrl": "/src/assets/technology/web/css.png"
+                "imageUrl": "/technologies/web/css.png"
             },
             {
                 "id": 3,
                 "name": "JavaScript",
-                "imageUrl": "/src/assets/technology/web/javascript.png"
+                "imageUrl": "/technologies/web/javascript.png"
             },
             {
                 "id": 4,
                 "name": "MySQL",
-                "imageUrl": "/src/assets/technology/web/mysql.png"
+                "imageUrl": "/technologies/web/mysql.png"
             },
             {
                 "id": 5,
                 "name": "PostgreSQL",
-                "imageUrl": "/src/assets/technology/web/postgresql.png"
+                "imageUrl": "/technologies/web/postgresql.png"
             },
             {
                 "id": 6,
                 "name": "MongoDB",
-                "imageUrl": "/src/assets/technology/web/mongodb.png"
+                "imageUrl": "/technologies/web/mongodb.png"
             },
             {
                 "id": 7,
                 "name": "React js",
-                "imageUrl": "/src/assets/technology/web/react.png"
+                "imageUrl": "/technologies/web/react.png"
             },
             {
                 "id": 8,
                 "name": "Node js",
-                "imageUrl": "/src/assets/technology/web/node-js.png"
+                "imageUrl": "/technologies/web/node-js.png"
             },
             {
                 "id": 9,
                 "name": "Next js",
-                "imageUrl": "/src/assets/technology/web/next-js.png"
+                "imageUrl": "/technologies/web/next-js.png"
             },
             {
                 "id": 10,
                 "name": "Django",
-                "imageUrl": "/src/assets/technology/web/django.png"
+                "imageUrl": "/technologies/web/django.png"
             }
         ]
     },
@@ -62,32 +62,32 @@
             {
                 "id": 1,
                 "name": "Java",
-                "imageUrl": "/src/assets/technology/mobile/java.png"
+                "imageUrl": "/technologies/mobile/java.png"
             },
             {
                 "id": 2,
                 "name": "Kotlin",
-                "imageUrl": "/src/assets/technology/mobile/kotlin.png"
+                "imageUrl": "/technologies/mobile/kotlin.png"
             },
             {
                 "id": 3,
                 "name": "React Native",
-                "imageUrl": "/src/assets/technology/mobile/react.png"
+                "imageUrl": "/technologies/mobile/react.png"
             },
             {
                 "id": 4,
                 "name": "Swift",
-                "imageUrl": "/src/assets/technology/mobile/swift.png"
+                "imageUrl": "/technologies/mobile/swift.png"
             },
             {
                 "id": 5,
                 "name": "Flutter",
-                "imageUrl": "/src/assets/technology/mobile/flutter.png"
+                "imageUrl": "/technologies/mobile/flutter.png"
             },
             {
                 "id": 6,
                 "name": "Ionic",
-                "imageUrl": "/src/assets/technology/mobile/ionic.png"
+                "imageUrl": "/technologies/mobile/ionic.png"
             }
         ]
 
@@ -99,32 +99,32 @@
             {
                 "id": 1,
                 "name": "Python",
-                "imageUrl": "/src/assets/technology/automation/python.png"
+                "imageUrl": "/technologies/automation/python.png"
             },
             {
                 "id": 2,
                 "name": "Java",
-                "imageUrl": "/src/assets/technology/automation/java.png"
+                "imageUrl": "/technologies/automation/java.png"
             },
             {
                 "id": 3,
                 "name": "C#",
-                "imageUrl": "/src/assets/technology/automation/csharp.png"
+                "imageUrl": "/technologies/automation/csharp.png"
             },
             {
                 "id": 4,
                 "name": "Tensor Flow",
-                "imageUrl": "/src/assets/technology/automation/tensorflow.png"
+                "imageUrl": "/technologies/automation/tensorflow.png"
             },
             {
                 "id": 5,
                 "name": "PyTorch",
-                "imageUrl": "/src/assets/technology/automation/pytorch.png"
+                "imageUrl": "/technologies/automation/pytorch.png"
             },
             {
                 "id": 6,
                 "name": "Docker",
-                "imageUrl": "/src/assets/technology/automation/docker.png"
+                "imageUrl": "/technologies/automation/docker.png"
             }
         ]
 
@@ -136,32 +136,32 @@
             {
                 "id": 1,
                 "name": "Python",
-                "imageUrl": "/src/assets/technology/ml/python.png"
+                "imageUrl": "/technologies/ml/python.png"
             },
             {
                 "id": 2,
                 "name": "PyTorch",
-                "imageUrl": "/src/assets/technology/ml/pytorch.png"
+                "imageUrl": "/technologies/ml/pytorch.png"
             },
             {
                 "id": 3,
                 "name": "Tensor Flow",
-                "imageUrl": "/src/assets/technology/ml/tensorflow.png"
+                "imageUrl": "/technologies/ml/tensorflow.png"
             },
             {
                 "id": 4,
                 "name": "Jupyter",
-                "imageUrl": "/src/assets/technology/ml/jupyter.png"
+                "imageUrl": "/technologies/ml/jupyter.png"
             },
             {
                 "id": 5,
                 "name": "Numpy",
-                "imageUrl": "/src/assets/technology/ml/numpy.png"
+                "imageUrl": "/technologies/ml/numpy.png"
             },
             {
                 "id": 6,
                 "name": "Keras",
-                "imageUrl": "/src/assets/technology/ml/keras.png"
+                "imageUrl": "/technologies/ml/keras.png"
             }
         ]
 

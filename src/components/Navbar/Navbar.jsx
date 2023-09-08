@@ -9,7 +9,7 @@ export default function Navbar() {
       <NavbarContainer id="Home">
         <div className="image-container">
           <img
-            src="/src/assets/logo.png"
+            src="/logo.png"
             alt="Made It Logo"
             style={{ maxWidth: "100%" }}
           />

@@ -27,7 +27,7 @@ export default function HeroSection() {
         </Link>
       </HeroTextContainer>
       <HeroImageContainer>
-        <img src="/src/assets/hero-image.png" alt="hero" width={450} />
+        <img src="/hero-image.png" alt="hero" width={450} />
       </HeroImageContainer>
     </HeroSectionContainer>
   );
