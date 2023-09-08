@@ -1,0 +1,29 @@
+
+[
+    {
+        "id": 1,
+        "name": "Home",
+        "offset": 0
+    },
+    {
+        "id": 2,
+        "name": "Technologies",
+        "offset": 0
+    },
+    {
+        "id": 3,
+        "name": "Solutions",
+        "offset": 0.11
+    },
+    {
+        "id": 4,
+        "name": "About Us",
+        "offset": 0
+    },
+    {
+        "id": 5,
+        "name": "Contact Us",
+        "offset": 0.08
+    }
+    
+]

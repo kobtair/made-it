@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Web Solutions",
+        "imageUrl": "/src/assets/solutions/web-solution.png",
+        "desc": "Our web app development service is your gateway to the online world. We transform your ideas into dynamic and interactive web applications accessible from any browser."
+    },
+    {
+        "id": 2,
+        "name": "Mobile App Solutions",
+        "imageUrl": "/src/assets/solutions/mobile-solution.png",
+        "desc": "Our mobile app development service empowers your business to tap into the immense potential of mobile technology. Whether you're looking to create an engaging consumer app, a productivity tool for your team, or a game-changing solution for your industry, our experts will guide you from concept to launch."
+    },
+    {
+        "id": 3,
+        "name": "Automation Solutions",
+        "imageUrl": "/src/assets/solutions/automation-solution.png",
+        "desc": "Our automation systems are engineered to revolutionize your operations. Whether it's streamlining business processes, optimizing manufacturing workflows, or enhancing your daily routines, we harness the power of automation technology. "
+    },
+    {
+        "id": 4,
+        "name": "Machine Learning Solutions",
+        "imageUrl": "/src/assets/solutions/ml-solution.png",
+        "desc": "Explore the world of AI and machine learning with our cutting-edge ML products. These intelligent solutions leverage the latest in artificial intelligence technology to make data-driven decisions, provide personalized experiences, and solve complex challenges."
+    }
+]
