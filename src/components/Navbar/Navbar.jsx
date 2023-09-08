@@ -16,7 +16,7 @@ export default function Navbar() {
         </div>
         <NavLinksContainer>
           {navLinks.map((link) => (
-            <NavLink offset={link.offset * window.innerWidth} to={link.name} smooth={true} duration={500}>
+            <NavLink key={link.id} offset={link.offset * window.innerWidth} to={link.name} smooth={true} duration={500}>
               {link.name}
             </NavLink>
           ))}
